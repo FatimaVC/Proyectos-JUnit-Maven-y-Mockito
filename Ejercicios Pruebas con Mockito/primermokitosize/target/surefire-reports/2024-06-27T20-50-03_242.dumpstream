@@ -1,0 +1,5 @@
+# Created at 2024-06-27T20:50:04.293
+Boot Manifest-JAR contains absolute paths in classpath 'd:\Quality Assurance Testing\Módulo VI\Clase 05_ Mokito\primermokitosize\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
